@@ -2,7 +2,8 @@
 My reading journal for Code Fellows
 
 ## Growth mindset 
-Is essential to be succesful. Constanst challange will ensure growth and understanding of everyhthing in life.
+A growth mindset essential to be succesful. Constant challange will ensure growth and understanding of everyhthing in life.
+
 <img src="https://uta.pressbooks.pub/app/uploads/sites/56/2019/07/ps-ideal-1024x1019.png" width=25% height=25%>
 
 ## Reminders to keep a Growth Mindset
