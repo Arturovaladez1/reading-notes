@@ -2,7 +2,7 @@
 My reading journal for code fellows
 
 Growth mindset is essential to be succesful. Constanst challange will ensure growth and understanding of anything in life.
-<img src="https://uta.pressbooks.pub/app/uploads/sites/56/2019/07/ps-ideal-1024x1019.png" width=50% height=50%>
+<img src="https://uta.pressbooks.pub/app/uploads/sites/56/2019/07/ps-ideal-1024x1019.png" width=25% height=25%>
 
 1. To always strive for success and take failure as a learning experince. I must always keep pushing forward no matter the difficulty.
 
