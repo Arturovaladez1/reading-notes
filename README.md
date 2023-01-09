@@ -13,4 +13,4 @@ Growth mindset is essential to be succesful. Constanst challange will ensure gro
 > "The future depends on what we do in the present".
 > -Ghandi
 
-[Link to my Github portfolio] (https://Arturovaladez1.github.io/reading-notes/)
+[Link to my Github portfolio](https://Arturovaladez1.github.io/reading-notes/)
