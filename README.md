@@ -10,4 +10,6 @@ Growth mindset is essential to be succesful. Constanst challange will ensure gro
 
 3. Obstacles are something that may cause furstration and often cause me to hit a roadbloack must find a way or atleast a small step in the right direction.
 
+> "The future depends on what we do in the present".
+
 [Link to my Github portfolio] (https://Arturovaladez1.github.io/reading-notes/)
