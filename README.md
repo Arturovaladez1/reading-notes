@@ -1,5 +1,6 @@
 # reading-notes
 My reading journal for code fellows
+
 Growth mindset is essential to succed 
 - Reminder 1
 - Reminder 2
