@@ -20,4 +20,4 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 > "The future depends on what we do in the present".
 > -Ghandi
 
-[Link to my Github portfolio](https://Arturovaladez1.github.io/readingnotes/)
+[Link to my Github portfolio](https://Arturovaladez1.github.io/readingnotes)
