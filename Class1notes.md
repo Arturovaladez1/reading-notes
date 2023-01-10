@@ -32,3 +32,4 @@ This video will cover github and its various aplications.
 - Have a better understanding of Jekyll and how it works.
 
 [Link back to reading-notes Home page](https://arturovaladez1.github.io/reading-notes/)
+[link to this page](
