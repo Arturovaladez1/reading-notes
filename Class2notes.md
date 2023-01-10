@@ -95,4 +95,4 @@ to build a web site
 
 
 
-[link to this page](https://arturovaladez1.github.io/reading-notes/Class2notes/)
+[link to this page](https://arturovaladez1.github.io/reading-notes/Class2notes)
