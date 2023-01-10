@@ -56,8 +56,17 @@ to build a web site
 #### Cheat sheet
 - pwd: Print Working Directory. (Make use of this command often so as to remind yourself where you presently are).
 - ls: list. ( just do a plain listing of our current location).
-- 
-
+- tree: Visual representation of information
+- cntrl c: stop command
+- mkdir: make directory 
+- ls -a: Hidden files
+- cd foler-name: change directory to specific folder
+- cd: Change directory takes you to home directory
+- cd .. takes you back to parent directory or back.
+- ls -l: list things one at a time
+- touch: New file in location
+- Tree: shows structure of your files.
+- code . launches the code editor (vs code) in the current directory.
 
 ### About Files
 
