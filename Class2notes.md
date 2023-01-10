@@ -67,21 +67,32 @@ to build a web site
 - touch: New file in location
 - Tree: shows structure of your files.
 - code . launches the code editor (vs code) in the current directory.
+- ACP: ADD,COMMAND,PUBLISH
+- Git status: verify committs have been made
+- Git add: to add any changes
+- Git add files: to add files
+- Git committ -m "message" (reason for change in quotations): to commit.
+- Git push origin main: publish
+- Git pull origin: in case you need to update git from github.
 
 ### About Files
 
+- Everything in linux is actually a file.
+- Linux ignores file extensions and looks inside the file to determine   what kind of file it is.
+- file obtain information about what type of file a file or directory   is.
+- ls -a List the contents of a directory, including hidden files.
 
-- 
-- 
-- 
 
 ## Things I want to know more about
 
 -  How to operate a IDE and what are some differneces among them.
 -  Learning shortcuts utilizing terminal.
-- 
-- 
+- Learning how to figure out the mess created when you use github and   git in a non sequential manner.
+- be aware of case sensitivity when dealing with command line options.
+- LINUX IS CASE SENSITIVE
+- Spaces in file and directory names are perfectly valid but we need     to be a little careful with them. 
 
-[Link back to reading-notes Home page](https://arturovaladez1.github.io/reading-notes/)
+
+
 
 [link to this page](https://arturovaladez1.github.io/reading-notes/Class2notes/)
