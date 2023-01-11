@@ -20,4 +20,33 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 > "The future depends on what we do in the present".
 > -Ghandi
 
+## Table of contents
+
+Code 102
+- Read 01
+- Read 02
+- Read 03
+- Read 04
+- Read 05
+- Read 06
+- Read 07
+- Read 08
+
+Code 201
+- Read 01
+- Read 02
+- Read 03
+- Read 04
+- Read 05
+- Read 06
+- Read 07
+- Read 08
+- Read 09
+- Read 10
+- Read 11
+- Read 12
+- Read 13
+- Read 14
+- Read 15
+
 [Link to my Github portfolio](https://github.com/arturovaladez1)
