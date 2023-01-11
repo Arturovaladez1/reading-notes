@@ -23,17 +23,17 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 ## Table of contents
 
 Code 102
-- Read 01
-- Read 02
-- Read 03
-- Read 04
-- Read 05
-- Read 06
-- Read 07
-- Read 08
+- [Read 01](102/Class1notes.md)
+- [Read 02](102/Class2notes.md)
+- [Read 03](102/Class3notes.md)
+- [Read 04](102/Class4notes.md)
+- [Read 05](102/Class5notes.md)
+- [Read 06](102/Class6notes.md)
+- [Read 07](102/Class7notes.md)
+- [Read 08](102/Class8notes.md)
 
 Code 201
-- Read 01
+- Read 01 
 - Read 02
 - Read 03
 - Read 04
