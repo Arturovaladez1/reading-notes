@@ -18,7 +18,6 @@
 
 - With an external style sheet, you can change the look of an entire website by changing just one file!
 
-
 ## Internal CSS
 
 - An internal style sheet may be used if one single HTML page has a unique style.
@@ -32,8 +31,16 @@
 ## CSS Tools: Reset CSS 
 
 - The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. 
-### Sources
 
+# Things I want to learn more about
+
+- css and how to stylize images into my webpage.
+
+- How to adjust items on webpage properly.
+
+- How to inline embed.
+
+### Sources
 
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 - [How to add CSS](https://www.w3schools.com/css/css_howto.asp)
