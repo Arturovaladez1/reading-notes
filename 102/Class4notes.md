@@ -6,7 +6,6 @@
 
 - Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
 
-
 - Some like to draw by hand, while others like to use apps or tools found online. But more often than not, the decision to use online tools or to wireframe by hand, and the process used to get to from wireframe to code, is less related to the individual preference of the UX Designer, and much more related to what approach the particular situation requires. It depends largely on how much emphasis there is on visual design in a project, and how much uncertainty there is with respect to what is being designed.
 
 ## Html 
@@ -18,6 +17,10 @@
 ## Semantics
 
 - In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+
+Things I want to know more about
+
+- Learning how to use wireframe with certain softwares and becoming great at design.
 
 # Sources
 - [Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
