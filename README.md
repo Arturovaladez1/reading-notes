@@ -26,7 +26,8 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 
 ## Table of contents
 
-### Code 102
+### Code 102 - Intro to Software Development
+
 
 - [Read 01](102/Class1notes.md)
 - [Read 02](102/Class2notes.md)
@@ -37,7 +38,7 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 - [Read 07](102/Class7notes.md)
 - [Read 08](102/Class8notes.md)
 
-### Code 201
+### Code 201 - Foundations of Software Development
 
 - [Read 01](201/201Class1notes.md)
 - [Read 02](201/201Class2notes.md)
@@ -54,5 +55,9 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 - [Read 13](201/201Class13notes.md)
 - [Read 14](201/201Class14notes.md)
 - [Read 15](201/201Class15notes.md)
+
+### Code 301 - Intermediate Software Development
+ 
+### Code 401 - Advanced Software Development
 
 [Link to my Github portfolio](https://github.com/arturovaladez1)
