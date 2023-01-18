@@ -15,11 +15,11 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 
 ## Reminders to keep a Growth Mindset
 
-1. To always strive for success and take failure as a learning experince. I must always keep pushing forward no matter the difficulty.
+1. To always strive for success and take failure as a learning experience. I must always keep pushing forward no matter how difficult it may be.
 
 2. To not allow myself to fall into a negative mindset or pattern. Things dont always come easy and must learn to be patient with the process of learning.
 
-3. Obstacles are something that may cause furstration and often cause me to hit a roadbloack must find a way or atleast a small step in the right direction.
+3. Obstacles are something that may cause furstration and often cause me to hit a roadbloack. I must find a way or atleast make a small step in the right direction.
 
 > "The future depends on what we do in the present".
 > -Ghandi
@@ -59,5 +59,7 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 ### Code 301 - Intermediate Software Development
  
 ### Code 401 - Advanced Software Development
+
+### Git notes
 
 [Link to my Github portfolio](https://github.com/arturovaladez1)
