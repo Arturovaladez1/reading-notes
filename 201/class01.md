@@ -1,6 +1,6 @@
 # Readings Class 01
 
-- This topic is important because it is beneficial for me to understand the process and basics of how the web works. How clients and servers communicate is the basics, but core basics to software development.
+- This topic is important because it is beneficial for me to understand the process and basics of how the web works. How clients and servers communicate are the basics, but core the core to everything online.
 
 ## Topics
 

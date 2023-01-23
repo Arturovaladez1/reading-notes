@@ -4,7 +4,7 @@ My reading journal for Code Fellows
 
 ## Introduction
 
-My name is Arturo C Valadez, i have no previous experience in tech but I am willing to learn. I am excited to enter a new career path and become a great Software Developer.
+My name is Arturo C Valadez, I have no previous experience in tech but I am willing to learn. I am excited to enter a new career path and become a great Software Developer.
 
 ## Growth mindset
 
