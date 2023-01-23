@@ -111,13 +111,13 @@ Similar to a article but groups together a single part of the page that constitu
 
 - Many meta elements include name and content.
 
-## How to start design a website
+## Assignment 3 How to start design a website
 
 1. First step is to create a framework of what you want the website to look like and its assets. Goals and visions(Project Ideation).
 
 2. What do you want to accomplish?
 
-## Semantics
+## Assignment 4 Semantics
 
 1. h1 VS Span
 
@@ -135,7 +135,7 @@ Similar to a article but groups together a single part of the page that constitu
 
 - Semantic naming mirrors proper custom element/component naming.
 
-## What is JavaScript?
+## Assignment 5 What is JavaScript?
 
 1. 2 things that require JavaScript in the browser?
 
