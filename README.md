@@ -8,8 +8,8 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 
 ## Growth mindset
 
-- A growth mindset essential to be succesful. Constant challange will ensure growth and understanding of everyhthing in life.
-- Being open minded will also create progress all things not limited to tech.
+- A growth mindset is essential to be succesful. A persistent mind will ensure growth and understanding of everything in life.
+- Being open minded will also create progress in all things not limited to tech.
 
 ![Problem Solving](https://images.unsplash.com/photo-1612933510543-5b442296703b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80)
 
@@ -40,7 +40,7 @@ My name is Arturo C Valadez, i have no previous experience in tech but I am will
 
 ### Code 201 - Foundations of Software Development
 
-- [Read 01](class-01.md)
+- [Read 01](class01.md)
 - [Read 02](class-02.md)
 - [Read 03](class-03.md)
 - [Read 04](class-04.md)
