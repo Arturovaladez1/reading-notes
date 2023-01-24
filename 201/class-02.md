@@ -1,5 +1,8 @@
 # Class 2 reading notes
 
+This topic is important because
+I am learning javascript, css and html the foundations of front end develoment.
+
 ## Html
 
 1. Why is it important to use semantic elements in our HTML?
@@ -77,5 +80,12 @@ Color and padding.
 - Strict equality ===, not!, does not-equal !==.
 
 4. What is the difference between the logical operator && and ||?
+ 
+- && (and) Examines both values and they most be true for the next block of code to execute, || (or) Operator examines either or the values and one must be true to execute the next block of code., 
 
-- &&
+
+## Id like to learn more about
+
+- Short circuit evaluation
+
+- Booleans and getting better at using them.
