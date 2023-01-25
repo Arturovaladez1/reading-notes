@@ -1,5 +1,7 @@
 # Class 3 Reading notes
 
+This topic matters because I am learning how to code and use javaScript, CSS, and HTML.
+
 ## Learn HTML
 
 ### List and Unordered lists
