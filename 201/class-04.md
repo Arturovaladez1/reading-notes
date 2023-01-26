@@ -1,5 +1,9 @@
 # Class 4 Reading Notes
 
+## This topic matters
+
+I am learning the basics of coding and these are just the tip of the iceburg.
+
 ## HTML
 
 - HTML Tables
