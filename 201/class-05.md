@@ -73,6 +73,57 @@ foregrounf color of an html elements content and bg color property defines the e
 
 [Text and font stylizing fundamentals](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
+## Class 5 In class notes
+
+# Title
+
+Bottom of class demo is the replit from class
+Friday assignments can be turned on sunday night
+the real value passed in is the value
+declare a variable to be used in a function
+if, and else if comes after the while
+while ()
+{}
+if ()
+{}
+else if()
+{}
+declaring your function at top if you find yourself repeating the same code.
+global variable at the top 
+you can invoke functions at the bottom of the page.
+
+## Arrays
+
+.pop() removes things at the end of the array
+.push() adds it to the end of the array.
+.shift() removes the first item in the array and moves the rest of the items move in the index.
+.unshift() adds to the first item in the array and shifts the rest of the items.
+you can also add multiple strings to the array also.
+.splice() takes the index of the item you want removes in a argument
+
+## CSS
+
+div > span only direct children will get changes.
+div takes the whole line
+li:nth-child(pickalistnumber) for list styling
+margin:auto sets it as a box 
+div block
+span are inline
+float takes things out of the flow 
+article  
+.clearfix::after{
+  content:"";
+  clear:both
+  display:table;
+
+}
+
+take in an array into a function
+function add first 3
+function return diff array 2 elemetns
+
+function adder(arr)
+
 ## Things I want to know more about
 
 - CSS Grid
