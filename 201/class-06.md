@@ -34,6 +34,35 @@
 
 - he DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts. The document as a whole, the head, tables within the document, table headers, text within the table cells, and all other elements in a document are parts of the document object model for that document. They can all be accessed and manipulated using the DOM and a scripting language like JavaScript.
 
+## Notes
+
+declaring an a rray []
+declaring an object {}
+.name to call specific value out of a key value pairs
+
+using dot notattion
+- object.keyname
+use camel case notation for ke value pairs
+- Bracket notation
+objectname[keyname]
+can have a trailing comma for key valu pairs or not. up to you.
+
+Functional objects 
+type of document console.log(document)
+
+Dom Manipulation
+1.element
+2.content
+3.append to the dom
+let p = document.createElement('p');
+p.textcontect = 'jumper is great',
+kittenArticle.appendChild(p)
+
+getNumnerOfRandomCustomer: function() {
+  return Matvch.floor(mATH.RANDFOM( * (THIS.MAX - THIS.MIN + 1)))
+}
+
+let img=
 ## Sources
 
 [JS Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
