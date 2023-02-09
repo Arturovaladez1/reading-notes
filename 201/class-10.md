@@ -15,6 +15,34 @@ What is the call stack?
 
 3. How will this topic continue to influence your long term goals?
 
+## class noted
+
+- how do we prevent bugs?
+breaking down our problems into smsll steps
+wirte opur code in small steps
+variable tracking
+rely on our tool ex rainbow in vs coide extension 
+plan out code scaffold it oiut add comment make a plan in advance 
+
+## how do we debugh when we ddo have bugs
+
+- identiufy the pronlems 
+dev tools
+second set of eyes
+read your code line by as if you are the computer add comments at each steps
+take break 
+ask for help
+comment out your code comment it one  at a time.
+
+I know where the bug is 
+
+is the data type what i expect
+what functions/ methods are only available where?
+google the error message - stack overflow.
+google the syntax - read the docs
+
+
+
 
 ## sources 
 
