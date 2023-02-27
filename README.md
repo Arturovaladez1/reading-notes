@@ -57,6 +57,8 @@ My name is Arturo C Valadez, I have no previous experience in tech but I am will
 
 ### Code 301 - Intermediate Software Development
 
+- [Read 01](301/class-01.md)
+
 ### Code 401 - Advanced Software Development
 
 ### Git notes
