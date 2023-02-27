@@ -2,10 +2,12 @@
 
 ## Component-Based Architecture
 
-What is a “component”?
+- What is a “component”?
+
 A component encapsulates functionality and behaviors of a software element into a reusable and self-deployable binary unit. A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface. A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities.
 
-What are the characteristics of a component?
+- What are the characteristics of a component?
+
  It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture.
  A component can have three different views − object-oriented view, conventional view, and process-related view.
  Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
@@ -39,14 +41,17 @@ Independent − Independency and flexible connectivity of components. Independen
 
 ## What is Props and How to Use it in React
 
-What is “props” short for?
+- What is “props” short for?
+
 stands for properties
 
-How are props used in React?
+- How are props used in React?
+
  passing data from one component to another.
  props data is read-only, which means that data coming from the parent should not be changed by child components.
 
-What is the flow of props?
+- What is the flow of props?
+
  parent to child
 
 ### Sources
