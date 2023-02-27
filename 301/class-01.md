@@ -52,9 +52,15 @@ What is the flow of props?
 ### Sources
 
 [Component-Based Architecture](https://canvas.instructure.com/courses/6172179/discussion_topics/17224035)
+
 [Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
+
 [Components and Props](https://reactjs.org/docs/components-and-props.html)
+
 [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
 [JSX](https://reactjs.org/docs/introducing-jsx.html)
+
 [Hello World](https://reactjs.org/docs/hello-world.html)
+
 [React Intro](https://reactjs.org/tutorial/tutorial.html)
