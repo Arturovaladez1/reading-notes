@@ -60,6 +60,7 @@ My name is Arturo C Valadez, I have no previous experience in tech but I am will
 - [Read 01](301/class-01.md)
 - [Read 02](301/class-02.md)
 - [Read 03](301/class-03.md)
+- [Read 04](301/class-04.md)
 
 ### Code 401 - Advanced Software Development
 
