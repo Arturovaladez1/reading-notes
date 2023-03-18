@@ -71,6 +71,8 @@ My name is Arturo C Valadez, I have no previous experience in tech but I am will
 - [Read 12](301/class-12.md)
 - [Read 13](301/class-13.md)
 - [Read 14](301/class-14.md)
+- [Read 15](301/class-15.md)
+
 
 
 
