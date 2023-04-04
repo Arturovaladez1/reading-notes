@@ -73,10 +73,26 @@ My name is Arturo C Valadez, I have no previous experience in tech but I am will
 - [Read 14](301/class-14.md)
 - [Read 15](301/class-15.md)
 
-
-
-
 ### Code 401 - Advanced Software Development
+
+- [SQL Prep Work](/401/Mindset.md401/Prep.md)
+- [Prep Your Mindset](/401/Mindset.md)
+- [CommandLine](/401/CommandLine.md)
+- [Read 01](401/class-01.md)
+- [Read 02](401/class-02.md)
+- [Read 03](401/class-03.md)
+- [Read 04](401/class-04.md)
+- [Read 05](401/class-05.md)
+- [Read 06](401/class-06.md)
+- [Read 07](401/class-07.md)
+- [Read 08](401/class-08.md)
+- [Read 09](401/class-09.md)
+- [Read 10](401/class-10.md)
+- [Read 11](401/class-11.md)
+- [Read 12](401/class-12.md)
+- [Read 13](401/class-13.md)
+- [Read 14](401/class-14.md)
+- [Read 15](401/class-15.md)
 
 ### Git notes
 
