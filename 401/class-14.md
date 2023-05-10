@@ -1,0 +1,3 @@
+# CLASS 14 NOTES
+
+## 
